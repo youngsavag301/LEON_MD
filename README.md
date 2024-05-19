@@ -1,40 +1,40 @@
 
 
-# `XLICON-V3-MD`
+# `LEON-V3-MD`
 <br>
 <br>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=Its%20XLICON-V3-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20SALMAN%20AHMAD)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=3F00FF&center=true&width=900&height=100&lines=Its%20LEON-V3-MD;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20YOUNG%20SAVAGE)
 <p align="center">
   
->XLICON-V3-MD is based on :
+>LEON-V3-MD is based on :
 >- [Cheems V10](https://github.com/DGXeon) by [DGXeon](https://github.com/DGXeon) (License: Apache License 2.0)
 >
 > :unicorn: Don't forget to check out! :point_right: [Cheems V10](https://github.com/DGXeon)
 </p>
 
 ## 🌟 `Bot Intro and Features`
-[![XLICON](https://i.ibb.co/sgdGM1P/XLICON-V3.jpg)](https://youtube.com/@s4salmanyt)
+[![LEON](https://a.uguu.se/LGhrppZx.jpg)](https://youtube.com/@blackscorpion263)
 
 <p align="center">
-<a href="https://github.com/salmanytofficial"><img title="Author" src="https://img.shields.io/badge/CREATOR-SALMAN SER-black.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/youngsavag301"><img title="Author" src="https://img.shields.io/badge/CREATOR-YOUNG SAVAGE-black.svg?style=for-the-badge&logo=github"></a>
 
-### ℹ️ **About XLICON-V3**
-XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by [Salman Ahamed](https://github.com/salmanytofficial). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
+### ℹ️ **About LEON-V3**
+LEON-V3 is a Cool Multi-Device WhatsApp bot developed by [Young Savage](https://github.com/youngsavag301). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
-<p align="center"><img src="https://profile-counter.glitch.me/{XLICON-V3}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{LEON-V3}/count.svg" alt="YOUNG SAVAGE :: Visitor's Count" /></p>
 
 ### 📊 **Bot Statistics**
 <p align="center">
-<a href="https://github.com/salmanytofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?color=red&style=flat-square"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/salmanytofficial/XLICON-V3-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/salmanytofficial/XLICON-V3-MD?color=red&style=flat-square"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/salmanytofficial/XLICON-V3-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Salman%20Ser.-red?v=103"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/salmanytofficial/XLICON-V3-MD?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsalmanytofficial%2FXLICON-V3-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/youngsavag301/followers"><img title="Followers" src="https://img.shields.io/github/followers/youngsavag301?color=red&style=flat-square"></a>
+<a href="https://github.com/youngsavag301/LEON_MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/youngsavag301/LEON_MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/youngsavag301/LEON_MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/youngsavag301/LEON_MD?color=red&style=flat-square"></a>
+<a href="https://github.com/youngsavag301/LEON_MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/youngsavag301/LEON_MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/youngsavag301/LEON_MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Young%20Savage.-red?v=103"></a>
+<a href="https://github.com/youngsavag301/LEON_MD/"><img title="Size" src="https://img.shields.io/github/repo-size/youngsavag301/LEON_MD?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungsavag301%2FLEON_MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/youngsavag301/LEON_MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -42,13 +42,13 @@ XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by [Salman Ahamed](https
   
 ####
 
-*XLICON-V3* - A Advanced Multi Device whatsapp bot Based on *CHEEMS V10*
+*LEON-V3* - A Advanced Multi Device whatsapp bot Based on *CHEEMS V10*
 -------
 
 ***
 
 ## ⭐ `Star This Repo`
-If you find XLICON-V3-MD helpful, consider giving it a star ⭐ to show your appreciation.
+If you find LEON-V3-MD helpful, consider giving it a star ⭐ to show your appreciation.
 
 Thanks to all contributors! 🚀
 
@@ -82,7 +82,7 @@ Click On The Link To Donate ME...
 ## 🛠️ `Installation Methods`
 1. Fork the repo
     <br>
-<a href='https://github.com/salmanytofficial/XLICON-V3-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/youngsavag301/LEON_MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 2. Get Creds Json (SERVER 1)
     <br>
@@ -113,7 +113,7 @@ Click On The Link To Donate ME...
 
 2. Now Deploy
     <br>
-    <a href='https://repl.it/github/salmanytofficial/XLICON-V3-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://repl.it/github/youngsavag301/LEON_MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 
 
@@ -203,40 +203,40 @@ NOW Deploy👇
 
 
 ## 📛 `OWNER` 
-<a href="https://github.com/salmanytofficial"><img src="https://github.com/salmanytofficial.png" width="250" height="250" alt="Salman Ahmad"/></a>
+<a href="https://github.com/youngsavag301"><img src="https://github.com/youngsavag301.png" width="250" height="250" alt="Young Savage"/></a>
   
-**XLICON-V3** - By `salmanytofficial`
+**LEON-V3** - By `YOUNG SAVAGE`
 <br>
 `Development , Maintainence , Bot Updates`
 
 ## 🏷️ `Main Dev` 
 <a href="https://github.com/V-E-N-O-X"><img src="https://github.com/V-E-N-O-X.png" width="250" height="250" alt="VENOX"/></a>
   
-**XLICON-V3** - By `Slahser Senpai`
+**LEON-V3** - By `Slahser Senpai`
 <br>
 `Development , Features Enhancement , Plugin Debbuging`
 
 ## 🏷️ `Contributer` 
 <a href="https://github.com/dragiez"><img src="https://github.com/dragiez.png" width="250" height="250" alt="DRAGIEZ"/></a>
   
-**XLICON-V3** - By `Dragiez`
+**LEON-V3** - By `Dragiez`
 <br>
 `Development , Features Enhancement , Code Testing`
 
 -------
 
 ## 🌈 `Support Us`
-- **Mail Us:** [salmansheikh2500@gmail.com](mailto:salmansheikh2500@gmail.com)
+- **Mail Us:** [Young Savage](mailto:youngsavag68@gmail.com)
 - **Join Our Support Group:**
  <p align="center">
    
   ## ``Support Group``
    
-- [`XLICON Community`](https://chat.whatsapp.com/J8U0HyBlokoC14UwmisO0b)
-- [`Official Group`](https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk)
-- [`Support Gc`](https://chat.whatsapp.com/Lda5nx04JZJJsKsibu0KFR)
+- [`XLICON Community`](https://whatsapp.com/channel/0029Vaf6cvv1NCrOLEa1IS1I)
+- [`Official Group`](https://chat.whatsapp.com/GjNQs4QVWkq3GZVmycBvHq)
+- [`Support Gc`](https://chat.whatsapp.com/GjNQs4QVWkq3GZVmycBvHq)
 
-<a aria-label="Join our chats" href="https://wa.me/923184070915?text=Hi!! SalmanAhmad Sir, I need Your Help" target="_blank">
+<a aria-label="Join our chats" href="https://wa.me/263780858655?text=Hi!! Savage Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
@@ -267,8 +267,8 @@ Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/<your gitHub Username>/XLICON-V3-MD.git
-cd XLICON-V3-MD
+git clone https://github.com/<your gitHub Username>/LEON_MD.git
+cd LEON_MD
 
 npm start
 ```
@@ -284,8 +284,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/<your gitHub Username>/XLICON-V3-MD
-cd XLICON-V3-MD
+git clone https://github.com/<your gitHub Username>/LEON_MD
+cd LEON_MD
 yarn install
 npm start
 ```
@@ -297,8 +297,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/<your gitHub Username>/XLICON-V3-MD
-cd XLICON-V3-MD
+git clone https://github.com/<your gitHub Username>/LEON_MD
+cd LEON_MD
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
