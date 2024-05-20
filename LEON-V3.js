@@ -1,36 +1,31 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
-//                                 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑-𝐌𝐃    𝐁𝐎𝐓                                                //
+//                                 LEON_MD    BOT                                                //
 //                                                                                                      //
 //                                         Ｖ：3.0                                                      //
 //                                                                                                      //
-//              ██╗  ██╗██╗     ██╗ ██████╗ ██████╗ ███╗   ██╗      ██╗   ██╗██████╗                    //
-//              ╚██╗██╔╝██║     ██║██╔════╝██╔═══██╗████╗  ██║      ██║   ██║╚════██╗                   //
-//                ╚███╔╝ ██║     ██║██║     ██║   ██║██╔██╗ ██║█████╗██║   ██║ █████╔╝                  //
-//               ██╔██╗ ██║     ██║██║     ██║   ██║██║╚██╗██║╚════╝╚██╗ ██╔╝ ╚═══██╗                   //
-//              ██╔╝ ██╗███████╗██║╚██████╗╚██████╔╝██║ ╚████║       ╚████╔╝ ██████╔╝                   //
-//              ╚═╝  ╚═╝╚══════╝╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝        ╚═══╝  ╚═════╝                    //
+//                           
 //                                                                                                      //
 //                                                                                                      //
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : XLICON-V3-MD
-//  * @author : salmanytofficial
-//  * @youtube : https://www.youtube.com/@s4salmanyt
-//   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
+//  * @project_name : LEON-V3-MD
+//  * @author : youngsavag301
+//  * @youtube : https://youtube.com/@blackscorpion263?si=lTFegkYoDJjO6iQ0
+//   * @description : LEON-V3 ,A Multi-functional whatsapp user bot.
 //*
 //*
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
 //Instagram: unicorn_xeon13
 //Telegram: t.me/ahmmitech
-//GitHub: @salmanytofficial
-//WhatsApp: +923184070915
+//GitHub: @youngsavag301 
+//WhatsApp: +263780858655
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 //   * Created By Github: DGXeon.
 //   * Credit To Xeon
-//   * © 2024 XLICON-V3-MD.
+//   * © 2024 LEON-V3-MD.
 // ⛥┌┤
 // */
 
@@ -423,7 +418,7 @@ module.exports = XliconBotInc = async (XliconBotInc, m, chatUpdate, store) => {
                 title: botname,
                 body: ownername,
                 previewType: "PHOTO",
-                thumbnail: fs.readFileSync("./XliconMedia/theme/xliconpic.jpg"),
+                thumbnail: fs.readFileSync("./LeonMedia/theme/leonpic.jpg"),
                 sourceUrl: wagc,
               },
             },
